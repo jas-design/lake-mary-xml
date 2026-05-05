@@ -2,14 +2,14 @@
 <website_config>
     <branding>
         <logo>
-            <use_image_logo>false</use_image_logo>
+            <use_image_logo>true</use_image_logo>
             <text_main>Dental Care PRO</text_main>
             <text_sub>Expert Dentistry</text_sub>
             <icon>Calendar</icon>
             <image_url>images/logo.png</image_url>            
         </logo>
         <colors>
-            <primary>#20A5AE</primary>
+            <primary>#DFC15E</primary>
             <secondary>#988127</secondary>
             <accent_blue>#407BFF</accent_blue>
             <dark_navy>#1A242F</dark_navy>
@@ -19,9 +19,9 @@
     </branding>
 
     <contact_info>
-        <phone_main>(+01) 123 456 789</phone_main>
-        <email>info@dentalcare.com</email>
-        <address>24/11 Robert Road, New York, USA</address>
+        <phone_main>(+01) 407-862-3344</phone_main>
+        <email>office@lakemaryfamilydentistry.com</email>
+        <address>1325 S. International Parkway, Suite 1201, Lake Mary, Florida 32746</address>
         <working_hours>Mon to Sat 9:00AM to 9:00PM</working_hours>
         <social_links>
             <facebook>#</facebook>
